@@ -31,7 +31,8 @@ gem 'jbuilder', '~> 2.0'
 # gem 'capistrano-rails', group: :development
 
 # devise for authentication
-gem 'devise'
+gem 'devise', '4.0.0.rc1'
+gem 'devise-bootstrap-views'
 
 # lets bootstrap it a bit
 gem 'bootstrap-sass', '~> 3.2.0'
